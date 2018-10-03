@@ -1,5 +1,6 @@
 {
   "name": "fsdown",
+  "version": "2.0.4",
   "description": "A Node.js leveldown API implementation that uses fs under the hood",
   "contributors": [
     "Anton Whalley <antonwhalley@vodafone.ie> (https://github.com/no9)",
